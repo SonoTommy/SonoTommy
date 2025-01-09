@@ -79,8 +79,35 @@
 - [Purple Cow](https://en.wikipedia.org/wiki/Purple_Cow) by Seth Godin
 
 ### 🎵 **Music**
-- Favorite artists include:  
-  **Lil Peep, Bob Marley, Travis Scott, Kanye West, Anri (City Pop), Sfera Ebbasta, Molchat Doma, The Beatles, Pink Floyd, Queen, Boney M, Idealism (Lo-fi artist), The Doors, Lil Uzi Vert, XXXTentacion, Kendrick Lamar, 2Pac, Ice Cube, Notorious B.I.G., Juice WRLD, Playboi Carti, Frank Sinatra, Michael Jackson, SIA, Rihanna, Beyoncé, The Weeknd, Eminem, Gorillaz.**
+- [Lil Peep](https://en.wikipedia.org/wiki/Lil_Peep)
+- [Bob Marley](https://en.wikipedia.org/wiki/Bob_Marley)
+- [Travis Scott](https://en.wikipedia.org/wiki/Travis_Scott)
+- [Kanye West](https://en.wikipedia.org/wiki/Kanye_West)
+- [Anri](https://en.wikipedia.org/wiki/Anri_(singer)) (City Pop)
+- [Sfera Ebbasta](https://en.wikipedia.org/wiki/Sfera_Ebbasta)
+- [Molchat Doma](https://en.wikipedia.org/wiki/Molchat_Doma)
+- [The Beatles](https://en.wikipedia.org/wiki/The_Beatles)
+- [Pink Floyd](https://en.wikipedia.org/wiki/Pink_Floyd)
+- [Queen](https://en.wikipedia.org/wiki/Queen_(band))
+- [Boney M.](https://en.wikipedia.org/wiki/Boney_M.)
+- [Idealism](https://genius.com/artists/Idealism) (Lo-fi artist)
+- [The Doors](https://en.wikipedia.org/wiki/The_Doors)
+- [Lil Uzi Vert](https://en.wikipedia.org/wiki/Lil_Uzi_Vert)
+- [XXXTentacion](https://en.wikipedia.org/wiki/XXXTentacion)
+- [Kendrick Lamar](https://en.wikipedia.org/wiki/Kendrick_Lamar)
+- [2Pac](https://en.wikipedia.org/wiki/Tupac_Shakur)
+- [Ice Cube](https://en.wikipedia.org/wiki/Ice_Cube)
+- [The Notorious B.I.G.](https://en.wikipedia.org/wiki/The_Notorious_B.I.G.)
+- [Juice WRLD](https://en.wikipedia.org/wiki/Juice_WRLD)
+- [Playboi Carti](https://en.wikipedia.org/wiki/Playboi_Carti)
+- [Frank Sinatra](https://en.wikipedia.org/wiki/Frank_Sinatra)
+- [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson)
+- [Sia](https://en.wikipedia.org/wiki/Sia_(musician))
+- [Rihanna](https://en.wikipedia.org/wiki/Rihanna)
+- [Beyoncé](https://en.wikipedia.org/wiki/Beyonc%C3%A9)
+- [The Weeknd](https://en.wikipedia.org/wiki/The_Weeknd)
+- [Eminem](https://en.wikipedia.org/wiki/Eminem)
+- [Gorillaz](https://en.wikipedia.org/wiki/Gorillaz)
 
 ---
 
