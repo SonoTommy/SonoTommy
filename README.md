@@ -167,3 +167,9 @@
 
 
 
+
+
+
+![Dragon Ball](https://img.shields.io/badge/Manga-Dragon%20Ball-orange?style=for-the-badge)
+![One Piece](https://img.shields.io/badge/Manga-One%20Piece-blue?style=for-the-badge)
+![Naruto](https://img.shields.io/badge/Manga-Naruto-red?style=for-the-badge)
