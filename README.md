@@ -23,25 +23,31 @@
 ## 💻 Tech Stack:
 
 ### **Programming Languages**
-- 🐍 Python  
-- ☕ Java (including Swing and desktop apps)  
-- 🌐 JavaScript (React, Node.js, TypeScript, Electron)  
-- 💾 PHP & MySQL  
-- 🚀 Golang  
-- 📋 C, C++  
-- 🛡️ Bash scripting
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### **Cybersecurity Tools & Frameworks**
-- 🔒 Kali Linux, Parrot OS, BackBox  
-- 📜 Metasploit, Burp Suite  
-- 🕵️ Nmap, Wireshark, OWASP Juice Shop  
-- 🛠️ Exploit development with SearchSploit and custom scripts
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Parrot OS](https://img.shields.io/badge/parrot%20os-%231D9A73.svg?style=for-the-badge&logo=linux&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-%23007ACC.svg?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6F00.svg?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-%2300ADD8.svg?style=for-the-badge&logo=nmap&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/wireshark-%23167A93.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### **Other Tools & Frameworks**
-- 🖌️ **Frontend**: React.js, Tailwind CSS  
-- 🔧 **Backend**: Express.js, Firebase  
-- 📦 **Database**: MySQL, MongoDB  
-- 🎨 **Design**: Figma
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -131,7 +137,7 @@
 
 ## 📊 GitHub Stats:
 
-![JustSouichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustSouichi&show_icons=true&theme=radical)
+![JustSouichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustSouichi&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustSouichi&layout=compact&theme=radical)
 
 ---
