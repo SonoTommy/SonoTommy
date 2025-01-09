@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/736x/48/06/28/4806281eb51778bda242a5bb90284a97.jpg)
+![Banner](https://i.pinimg.com/originals/48/06/28/4806281eb51778bda242a5bb90284a97.jpg)
 
 # Hi there, I'm JustSouichi! 👋
 
@@ -42,6 +42,45 @@
 - 🔧 **Backend**: Express.js, Firebase  
 - 📦 **Database**: MySQL, MongoDB  
 - 🎨 **Design**: Figma
+
+---
+
+## 🎬 Anime, Manga, Books & Music:
+
+### 📺 **Anime**
+- [Bleach](https://en.wikipedia.org/wiki/Bleach_(TV_series))
+- [Gintama](https://en.wikipedia.org/wiki/Gintama)
+- [Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)
+- [Neon Genesis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)
+- [Kakegurui](https://en.wikipedia.org/wiki/Kakegurui)
+- [Vinland Saga](https://en.wikipedia.org/wiki/Vinland_Saga_(TV_series))
+- [Tokyo Revengers](https://en.wikipedia.org/wiki/Tokyo_Revengers)
+
+### 📚 **Manga**
+- [20th Century Boys](https://en.wikipedia.org/wiki/20th_Century_Boys)
+- [Monster](https://en.wikipedia.org/wiki/Monster_(manga))
+- [Dragon Ball](https://en.wikipedia.org/wiki/Dragon_Ball)
+- [Dragon Ball Super](https://en.wikipedia.org/wiki/Dragon_Ball_Super)
+- [Naruto](https://en.wikipedia.org/wiki/Naruto)
+- [One Piece](https://en.wikipedia.org/wiki/One_Piece)
+- [Death Note](https://en.wikipedia.org/wiki/Death_Note)
+- [One Punch Man](https://en.wikipedia.org/wiki/One-Punch_Man)
+- [Black Clover](https://en.wikipedia.org/wiki/Black_Clover)
+- [Berserk](https://en.wikipedia.org/wiki/Berserk_(manga))
+- Most stories by [Junji Ito](https://en.wikipedia.org/wiki/Junji_Ito), including Uzumaki, Souichi, and Tomie.
+
+### 📖 **Books**
+- [Autobiography of a Yogi](https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi)
+- [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs_(book)) by Walter Isaacson
+- [Rich Dad Poor Dad](https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad) by Robert Kiyosaki
+- [Influence](https://en.wikipedia.org/wiki/Influence:_The_Psychology_of_Persuasion) by Robert Cialdini
+- [Hypnotic Writing](https://www.goodreads.com/book/show/128926.Hypnotic_Writing) by Joe Vitale
+- Marketing 4.0 by Philip Kotler
+- [Purple Cow](https://en.wikipedia.org/wiki/Purple_Cow) by Seth Godin
+
+### 🎵 **Music**
+- Favorite artists include:  
+  **Lil Peep, Bob Marley, Travis Scott, Kanye West, Anri (City Pop), Sfera Ebbasta, Molchat Doma, The Beatles, Pink Floyd, Queen, Boney M, Idealism (Lo-fi artist), The Doors, Lil Uzi Vert, XXXTentacion, Kendrick Lamar, 2Pac, Ice Cube, Notorious B.I.G., Juice WRLD, Playboi Carti, Frank Sinatra, Michael Jackson, SIA, Rihanna, Beyoncé, The Weeknd, Eminem, Gorillaz.**
 
 ---
 
