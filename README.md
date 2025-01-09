@@ -45,6 +45,15 @@
 
 ---
 
+## 🌟 My Core Values:
+
+- **Continuous Learning**: Always seeking to expand my knowledge and improve my skills.
+- **Collaboration**: Enjoy working with others to achieve creative solutions.
+- **Innovation**: Passionate about solving complex problems with cutting-edge technology.
+- **Integrity**: Uphold the highest standards in my work and interactions.
+
+---
+
 ## 🎬 Anime, Manga, Books & Music:
 
 ### 📺 **Anime**
@@ -124,6 +133,19 @@
 
 ![JustSouichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustSouichi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustSouichi&layout=compact&theme=radical)
+
+---
+
+## 🖼️ Featured Projects:
+
+### [HackerAI - Link Confirmation](https://github.com/JustSouichi/HackerAI)
+**Purpose:** A browser extension that validates links to prevent phishing and spam.  
+**Tech Stack:** JavaScript, React, Tailwind CSS  
+**Highlight:** Featured on the Chrome Web Store, licensed under MIT.
+
+### [Ethical Hacking Guide](https://github.com/JustSouichi/ethical-hacking-guida-completa)
+**Purpose:** Comprehensive guide to ethical hacking and penetration testing.  
+**Focus:** Exploiting known vulnerabilities in Metasploitable 2 and more.
 
 ---
 
