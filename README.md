@@ -165,11 +165,3 @@
 
 🌟 _"Turning passion into impactful projects, one step at a time."_
 
-
-
-
-
-
-[![Dragon Ball](https://upload.wikimedia.org/wikipedia/en/2/27/Dragon_Ball_volume_1_cover.jpg)](https://en.wikipedia.org/wiki/Dragon_Ball)  
-[![One Piece](https://upload.wikimedia.org/wikipedia/en/5/5f/One_Piece_volume_1.jpg)](https://en.wikipedia.org/wiki/One_Piece)  
-[![Naruto](https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg)](https://en.wikipedia.org/wiki/Naruto)
