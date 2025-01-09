@@ -165,3 +165,6 @@
 
 🌟 _"Turning passion into impactful projects, one step at a time."_
 
+
+
+![Manga](https://img.shields.io/badge/Manga-One%20Piece-red)
