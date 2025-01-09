@@ -167,4 +167,3 @@
 
 
 
-![Manga](https://img.shields.io/badge/Manga-One%20Piece-red)
