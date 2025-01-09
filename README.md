@@ -63,26 +63,36 @@
 ## 🎬 Anime, Manga, Books & Music:
 
 ### 📺 **Anime**
-- [Bleach](https://en.wikipedia.org/wiki/Bleach_(TV_series))
-- [Gintama](https://en.wikipedia.org/wiki/Gintama)
-- [Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)
-- [Neon Genesis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)
-- [Kakegurui](https://en.wikipedia.org/wiki/Kakegurui)
-- [Vinland Saga](https://en.wikipedia.org/wiki/Vinland_Saga_(TV_series))
-- [Tokyo Revengers](https://en.wikipedia.org/wiki/Tokyo_Revengers)
+<a href="https://en.wikipedia.org/wiki/Bleach_(TV_series)">
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Bleachanime.png" alt="Bleach" width="50" style="vertical-align:middle; margin-right:10px;">
+    Bleach
+</a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Gintama">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/31/Gintama_Volume_1.jpg" alt="Gintama" width="50" style="vertical-align:middle; margin-right:10px;">
+    Gintama
+</a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Attack_on_Titan">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Shingeki_no_Kyojin_manga_volume_1.jpg" alt="Attack on Titan" width="50" style="vertical-align:middle; margin-right:10px;">
+    Attack on Titan
+</a>
 
 ### 📚 **Manga**
-- [20th Century Boys](https://en.wikipedia.org/wiki/20th_Century_Boys)
-- [Monster](https://en.wikipedia.org/wiki/Monster_(manga))
-- [Dragon Ball](https://en.wikipedia.org/wiki/Dragon_Ball)
-- [Dragon Ball Super](https://en.wikipedia.org/wiki/Dragon_Ball_Super)
-- [Naruto](https://en.wikipedia.org/wiki/Naruto)
-- [One Piece](https://en.wikipedia.org/wiki/One_Piece)
-- [Death Note](https://en.wikipedia.org/wiki/Death_Note)
-- [One Punch Man](https://en.wikipedia.org/wiki/One-Punch_Man)
-- [Black Clover](https://en.wikipedia.org/wiki/Black_Clover)
-- [Berserk](https://en.wikipedia.org/wiki/Berserk_(manga))
-- Most stories by [Junji Ito](https://en.wikipedia.org/wiki/Junji_Ito), including Uzumaki, Souichi, and Tomie.
+<a href="https://en.wikipedia.org/wiki/Dragon_Ball">
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/27/Dragon_Ball_volume_1_cover.jpg" alt="Dragon Ball" width="50" style="vertical-align:middle; margin-right:10px;">
+    Dragon Ball
+</a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Naruto">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg" alt="Naruto" width="50" style="vertical-align:middle; margin-right:10px;">
+    Naruto
+</a>
+<br>
+<a href="https://en.wikipedia.org/wiki/One_Piece">
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/5f/One_Piece_volume_1.jpg" alt="One Piece" width="50" style="vertical-align:middle; margin-right:10px;">
+    One Piece
+</a>
 
 ### 📖 **Books**
 - [Autobiography of a Yogi](https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi)
@@ -94,35 +104,20 @@
 - [Purple Cow](https://en.wikipedia.org/wiki/Purple_Cow) by Seth Godin
 
 ### 🎵 **Music**
-- [Lil Peep](https://en.wikipedia.org/wiki/Lil_Peep)
-- [Bob Marley](https://en.wikipedia.org/wiki/Bob_Marley)
-- [Travis Scott](https://en.wikipedia.org/wiki/Travis_Scott)
-- [Kanye West](https://en.wikipedia.org/wiki/Kanye_West)
-- [Anri](https://en.wikipedia.org/wiki/Anri_(singer)) (City Pop)
-- [Sfera Ebbasta](https://en.wikipedia.org/wiki/Sfera_Ebbasta)
-- [Molchat Doma](https://en.wikipedia.org/wiki/Molchat_Doma)
-- [The Beatles](https://en.wikipedia.org/wiki/The_Beatles)
-- [Pink Floyd](https://en.wikipedia.org/wiki/Pink_Floyd)
-- [Queen](https://en.wikipedia.org/wiki/Queen_(band))
-- [Boney M.](https://en.wikipedia.org/wiki/Boney_M.)
-- [Idealism](https://genius.com/artists/Idealism) (Lo-fi artist)
-- [The Doors](https://en.wikipedia.org/wiki/The_Doors)
-- [Lil Uzi Vert](https://en.wikipedia.org/wiki/Lil_Uzi_Vert)
-- [XXXTentacion](https://en.wikipedia.org/wiki/XXXTentacion)
-- [Kendrick Lamar](https://en.wikipedia.org/wiki/Kendrick_Lamar)
-- [2Pac](https://en.wikipedia.org/wiki/Tupac_Shakur)
-- [Ice Cube](https://en.wikipedia.org/wiki/Ice_Cube)
-- [The Notorious B.I.G.](https://en.wikipedia.org/wiki/The_Notorious_B.I.G.)
-- [Juice WRLD](https://en.wikipedia.org/wiki/Juice_WRLD)
-- [Playboi Carti](https://en.wikipedia.org/wiki/Playboi_Carti)
-- [Frank Sinatra](https://en.wikipedia.org/wiki/Frank_Sinatra)
-- [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson)
-- [Sia](https://en.wikipedia.org/wiki/Sia_(musician))
-- [Rihanna](https://en.wikipedia.org/wiki/Rihanna)
-- [Beyoncé](https://en.wikipedia.org/wiki/Beyonc%C3%A9)
-- [The Weeknd](https://en.wikipedia.org/wiki/The_Weeknd)
-- [Eminem](https://en.wikipedia.org/wiki/Eminem)
-- [Gorillaz](https://en.wikipedia.org/wiki/Gorillaz)
+<a href="https://en.wikipedia.org/wiki/Lil_Peep">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Lil_Peep_2016.jpg/220px-Lil_Peep_2016.jpg" alt="Lil Peep" width="50" style="vertical-align:middle; margin-right:10px;">
+    Lil Peep
+</a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Bob_Marley">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bob-Marley-1979.jpg/220px-Bob-Marley-1979.jpg" alt="Bob Marley" width="50" style="vertical-align:middle; margin-right:10px;">
+    Bob Marley
+</a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Travis_Scott">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travis_Scott_in_2019.jpg/220px-Travis_Scott_in_2019.jpg" alt="Travis Scott" width="50" style="vertical-align:middle; margin-right:10px;">
+    Travis Scott
+</a>
 
 ---
 
@@ -164,4 +159,3 @@
 ---
 
 🌟 _"Turning passion into impactful projects, one step at a time."_
-
