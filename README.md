@@ -1,6 +1,6 @@
 ![Banner](https://i.pinimg.com/originals/48/06/28/4806281eb51778bda242a5bb90284a97.jpg)
 
-# Hi there, I'm JustSouichi! 👋
+# Hi there, I'm SonoTommy! 👋
 
 🚀 **Passionate Student in Computer Engineering**  
 💻 **Developer, Ethical Hacker, and Content Creator**  
