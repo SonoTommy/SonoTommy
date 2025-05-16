@@ -70,6 +70,7 @@
 - [Kakegurui](https://en.wikipedia.org/wiki/Kakegurui)
 - [Vinland Saga](https://en.wikipedia.org/wiki/Vinland_Saga_(TV_series))
 - [Tokyo Revengers](https://en.wikipedia.org/wiki/Tokyo_Revengers)
+- [Serial Experiments Lain](https://en.wikipedia.org/wiki/Serial_Experiments_Lain)
 
 ### 📚 **Manga**
 - [20th Century Boys](https://en.wikipedia.org/wiki/20th_Century_Boys)
@@ -83,7 +84,7 @@
 - [Black Clover](https://en.wikipedia.org/wiki/Black_Clover)
 - [Berserk](https://en.wikipedia.org/wiki/Berserk_(manga))
 - Most stories by [Junji Ito](https://en.wikipedia.org/wiki/Junji_Ito), including Uzumaki, Souichi, and Tomie.
-- [Serial Experiments Lain](https://en.wikipedia.org/wiki/Serial_Experiments_Lain)
+
 
 ### 🎞️ **Films**
 - [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)
