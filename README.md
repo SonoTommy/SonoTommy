@@ -83,6 +83,7 @@
 - [Black Clover](https://en.wikipedia.org/wiki/Black_Clover)
 - [Berserk](https://en.wikipedia.org/wiki/Berserk_(manga))
 - Most stories by [Junji Ito](https://en.wikipedia.org/wiki/Junji_Ito), including Uzumaki, Souichi, and Tomie.
+- [Serial Experiments Lain](https://en.wikipedia.org/wiki/Serial_Experiments_Lain)
 
 ### 🎞️ **Films**
 - [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)
