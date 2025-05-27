@@ -173,7 +173,7 @@
 
 ## 🌌 Socials & Contact:
 
-- 🐦 **TikTok:** [@SonoTommy](https://www.tiktok.com/@SonoTommy) | [@little.curiosity](https://www.tiktok.com/@little.curiosity)  
+- 🐦 **TikTok:** [@SonoTommy_](https://www.tiktok.com/@SonoTommy_) | [@little.curiosity](https://www.tiktok.com/@little.curiosity)  
 - 📧 **Email:** tommasobertocchideveloper04@gmail.com  
 - 🌐 **Website/Portfolio:** Coming Soon!
 
