@@ -170,7 +170,6 @@
 **Focus:** Exploiting known vulnerabilities in Metasploitable 2 and more.
 
 ---
-[![Le statistiche di GitHub di SonoTommy](https://github-readme-stats.vercel.app/api?username=SonoTommy&show_icons=true&theme=radical)](https://github.com/SonoTommy)
 ## 🌌 Socials & Contact:
 
 - 🐦 **TikTok:** [@SonoTommy_](https://www.tiktok.com/@SonoTommy_) | [@little.curiosity](https://www.tiktok.com/@little.curiosity)  
