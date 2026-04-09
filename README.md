@@ -154,8 +154,14 @@
 ## 📊 GitHub Stats:
 
 <div align="left">
-<img alt="SonoTommy GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=SonoTommy&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true&count_private=true&include_all_commits=true"/>
-<img alt="Top langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SonoTommy&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true&layout=compact&langs_count=8"/>
+  <img alt="SonoTommy GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=SonoTommy&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img alt="Top langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SonoTommy&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true&layout=compact&langs_count=8"/>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/pompelmi/NOME_DEL_TUO_REPO">
+    <img alt="Pompelmi Repo Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pompelmi&repo=NOME_DEL_TUO_REPO&theme=tokyonight&border_color=61dafb&hide_border=true"/>
+  </a>
 </div>
 
 ---
