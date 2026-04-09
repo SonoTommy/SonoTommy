@@ -153,8 +153,10 @@
 
 ## 📊 GitHub Stats:
 
-![SonoTommy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonoTommy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonoTommy&layout=compact&theme=radical)
+<div align="left">
+<img alt="SonoTommy GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=SonoTommy&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true&count_private=true&include_all_commits=true"/>
+<img alt="Top langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SonoTommy&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true&layout=compact&langs_count=8"/>
+</div>
 
 ---
 
