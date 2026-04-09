@@ -159,7 +159,7 @@
   
   <br/><br/>
   
-  <a href="https://github.com/pompelmi/NOME_DEL_TUO_REPO">
+  <a href="https://github.com/pompelmi/pompelmi">
     <img alt="Pompelmi Repo Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pompelmi&repo=NOME_DEL_TUO_REPO&theme=tokyonight&border_color=61dafb&hide_border=true"/>
   </a>
 </div>
